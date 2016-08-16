@@ -1,0 +1,11 @@
+size = "small"
+loudest = "Frank"
+color = "orange"
+water_temp = "fridgid"
+ride = "calm"
+
+puts "At the park I was talked into eating a #{size} sundae."
+puts "#{loudest} could not stop talking about the parks water rides."
+puts "Turns out the water was absolutly #{water_temp}."
+puts "While warming up we decided to get some #{color} candy."
+puts "By far the best ride of the day was the #{ride} one on our way home."
